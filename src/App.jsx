@@ -109,7 +109,7 @@ function App() {
     </div>
   </div>
 </nav>
-<div className='row mt-5 mx-3 d-flex justify-content-center align-items-center'>
+<div className='row mt-5 mx-3 mx-sm-0 d-flex justify-content-center align-items-center'>
   <div className="col-md-4">
     <div className='justify-content-between'>
      <h3 className='text-info'> BMI Calculator</h3><br></br>
@@ -117,7 +117,7 @@ function App() {
     </div>
   </div>
   <div className="col-md-6">
-    <div className='border shadow m-5 p-5'>
+    <div className='border shadow m-md-5 p-md-5 m-0 p-0'>
      <h1 className='text-success text-center mb-2'> BMI Calculator</h1>
      <div className="input-group mb-3 mt-4 ">
   <div className="form-floating">
