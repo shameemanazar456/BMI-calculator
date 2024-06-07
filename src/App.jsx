@@ -82,7 +82,7 @@ function App() {
           setIsN(true)
         } 
         else if(re <= 29.9){
-          setIsOW(true)
+          setIsOw(true)
         }
         else{
           setIsO(true)
