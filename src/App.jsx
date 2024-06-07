@@ -156,7 +156,7 @@ function App() {
       </div>
 }
 { isow &&
-      <div className='border p-3 text-light w-75' style={{background:'D35400'}}>
+      <div className='border p-3 text-light w-75' style={{background:'#D35400'}}>
         <h3>Your BMI is</h3>
         <h1>{bmi}</h1>
         <h4 >You are OverWeight</h4>
