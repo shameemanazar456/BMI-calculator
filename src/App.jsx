@@ -59,6 +59,10 @@ function App() {
     setWeight(0)
     setIsHeight(true)
     setIsWeight(true)
+    setIsN(false)
+      setIsO(false)
+        setIsOw(false)
+        setIsUw(false)
   }
 
   //function to calculate bmi
